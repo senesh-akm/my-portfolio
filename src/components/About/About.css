@@ -1,0 +1,10 @@
+.about {
+    padding: 2em;
+    text-align: center;
+}
+  
+@media (max-width: 600px) {
+    .about {
+        padding: 1em;
+    }
+}

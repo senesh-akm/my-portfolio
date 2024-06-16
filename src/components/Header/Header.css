@@ -1,0 +1,33 @@
+.header {
+  background-color: #333;
+  color: white;
+  padding: 1em 0;
+}
+  
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  margin: 0 1em;
+}
+  
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+  
+@media (max-width: 600px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  nav ul li {
+    margin: 0.5em 0;
+  }
+}
