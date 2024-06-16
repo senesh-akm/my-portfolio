@@ -1,0 +1,22 @@
+.projects {
+    padding: 2em;
+}
+  
+.project-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+  
+.project-item {
+    width: 30%;
+    margin: 1em 0;
+    padding: 1em;
+    background-color: #f4f4f4;
+}
+  
+@media (max-width: 600px) {
+    .project-item {
+        width: 80%;
+    }
+}
