@@ -1,22 +1,12 @@
 .projects {
-    padding: 2em;
+    background: #f8f9fa;
 }
-  
-.project-list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+
+.card {
+    border: none;
+    transition: transform 0.2s;
 }
-  
-.project-item {
-    width: 30%;
-    margin: 1em 0;
-    padding: 1em;
-    background-color: #f4f4f4;
-}
-  
-@media (max-width: 600px) {
-    .project-item {
-        width: 80%;
-    }
+
+.card:hover {
+    transform: scale(1.05);
 }
