@@ -1,4 +1,22 @@
 .home {
     height: 100vh;
     background: #F96DCA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading {
+    margin: auto;
+    padding: 1em;
+}
+
+.lead {
+    margin: auto;
+    padding: 1em;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
 }
