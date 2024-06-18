@@ -1,6 +1,7 @@
 .home {
     height: 100vh;
-    background: #F96DCA;
+    background: url(images/profile-background.jpg);
+    color: #ffff;
     display: flex;
     align-items: center;
     justify-content: center;
