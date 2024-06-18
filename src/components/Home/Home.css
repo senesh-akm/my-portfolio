@@ -3,8 +3,7 @@
     background: url(images/profile-background.jpg);
     color: #ffff;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: left;
 }
 
 .heading {
@@ -17,8 +16,10 @@
     padding: 1em;
 }
 
-.img-fluid {
-    max-width: 100%;
+.profile-pic {
+    max-width: 15rem;
     height: auto;
-    border-radius: 25em;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
