@@ -10,3 +10,13 @@
 .card:hover {
     transform: scale(1.05);
 }
+
+.completed {
+    color: #108016;
+    font-weight: 700;
+}
+
+.about-begin {
+    color: #bb6413;
+    font-weight: 700;
+}
