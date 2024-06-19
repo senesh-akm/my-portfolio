@@ -7,48 +7,47 @@ function Experience() {
       <div className="container">
         <div className="row">
             <div className="col-md-6">
-                <h2 className="heading">Experience</h2>
+                <h2>Experience</h2>
                 <div className="experience-item">
-                    <h3 className="experience-title">Software Developer at XYZ Company</h3>
-                    <p className="experience-duration">Jan 2020 - Present</p>
+                    <h3 className="experience-title">Trainee Developer at MISL Holding (Pvt) Ltd.</h3>
+                    <p className="experience-duration">Aug 2023 - Jun 2024</p>
                     <p className="experience-description">
-                        - Developed and maintained web applications using React, Redux, and Node.js.<br/>
-                        - Collaborated with cross-functional teams to define, design, and ship new features.<br/>
-                        - Implemented responsive design principles to ensure applications worked seamlessly on various devices.<br/>
-                        - Participated in code reviews and provided constructive feedback to peers.<br/>
+                        - Developed and maintained web applications using React and Laravel.<br/>
+                        - Implemented responsive designs to ensure apps work seamlessly on different devices.<br/>
+                        - Install and configure printer server for Raspberry Pi and Orange Pi Ubuntu devices.<br/>
+                        - Creating project proposals and introductory videos for new software projects.<br/>
+                        - Creating user interfaces for new web and mobile software products.<br/>
                         - Wrote unit and integration tests to ensure code quality and reliability.
                     </p>
                 </div>
                 <div className="experience-item">
-                    <h3 className="experience-title">Junior Developer at ABC Solutions</h3>
-                    <p className="experience-duration">Jul 2018 - Dec 2019</p>
+                    <h3 className="experience-title">Intern Software Engineer at Ambrum Solutions (Pvt) Ltd.</h3>
+                    <p className="experience-duration">Nov 2022 - Feb 2023</p>
                     <p className="experience-description">
-                        - Assisted in the development of client-side applications using JavaScript and Angular.<br/>
-                        - Worked closely with designers to implement user-friendly interfaces.<br/>
-                        - Debugged and resolved issues in existing applications.<br/>
-                        - Contributed to the improvement of development processes and best practices.<br/>
-                        - Documented technical specifications and user guides.
+                        - Assisted in the development of client-side applications using JavaScript and Bootstrap.<br/>
+                        - Worked closely with UI/UX designers and other developers to implement user-friendly interfaces.<br/>
+                        - Improving knowledge focusing on development processes and new technologies.<br/>
                     </p>
                 </div>
             </div>
             <div className="col-md-6">
-                <h2 className="heading">Education</h2>
+                <h2>Education</h2>
                 <div className="education-item">
-                    <h3 className="education-title">BSc in Software Engineering</h3>
-                    <p className="education-duration">London Metropolitan University, 2015 - 2018</p>
+                    <h3 className="education-title">BEng (Hons) in Software Engineering</h3>
+                    <p className="education-duration">London Metropolitan University, 2019 - 2020</p>
                     <p className="education-description">
-                        - Graduated with First Class Honors.<br/>
+                        - Graduated with Lower Second Class Honors.<br/>
                         - Completed coursework in advanced algorithms, data structures, software development, and project management.<br/>
-                        - Developed a capstone project focused on creating a real-time collaborative coding platform.<br/>
-                        - Actively participated in coding competitions and hackathons.
+                        - Developed a final project focused on creating a real-time collaborative coding platform.<br/>
+                        - Participate in coding and quality assurance of team projects.
                     </p>
                 </div>
                 <div className="education-item">
-                    <h3 className="education-title">Diploma in Information Technology</h3>
-                    <p className="education-duration">ABC Institute, 2013 - 2015</p>
+                    <h3 className="education-title">Higher National Diploma in Computing and System Development</h3>
+                    <p className="education-duration">ESOFT Metro Campus, 2017 - 2019</p>
                     <p className="education-description">
-                        - Graduated with Distinction.<br/>
-                        - Studied foundational courses in programming, database management, and web development.<br/>
+                        - Undergraduated with Distinction.<br/>
+                        - Studied foundational courses in programming, database management, and software development.<br/>
                         - Worked on various projects involving the development of small-scale applications.<br/>
                         - Engaged in extracurricular activities related to technology and innovation.
                     </p>
