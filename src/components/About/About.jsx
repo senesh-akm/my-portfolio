@@ -9,7 +9,7 @@ function About() {
       <div className="container">
         <div className="row">
           <div className="col-md-4">
-            <img src={aboutImage} alt="About Me" className="img-fluid" />
+            <img src={aboutImage} alt="About Me" className="img-fluid about-image" />
           </div>
           <div className="col-md-8 justify-content-between">
             <h2>About Me</h2>
