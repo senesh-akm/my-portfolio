@@ -1,5 +1,7 @@
-.projects {
-    background: #f8f9fa;
+.custom-card {
+    border: none;
+    border-radius: 100px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 .card {

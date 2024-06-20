@@ -1,5 +1,6 @@
-.experience {
-    background-color: #f8f9fa;
+.custom-card {
+    border: none;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 .experience-item {
