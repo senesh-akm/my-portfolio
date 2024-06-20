@@ -1,3 +1,22 @@
 .contact {
-    background: #ffffff;
+    background-color: #f8f9fa;
+    padding: 2rem 0;
+}
+
+.contact h2 {
+    margin-bottom: 2rem;
+}
+
+.contact .form-group {
+    margin-bottom: 1.5rem;
+}
+
+.contact .btn {
+    background-color: #007bff;
+    border: none;
+    transition: background-color 0.3s;
+}
+
+.contact .btn:hover {
+    background-color: #0056b3;
 }
